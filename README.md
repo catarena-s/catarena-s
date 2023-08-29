@@ -7,7 +7,7 @@
 
 # Hi, I'm Katerina 👋
 
-Software Engineer with over 8 years of experience. I currently develop in Java, but have developed in C#, Java and SQL programming languages.
+Software Engineer with experience in C#, Java and SQL. I currently develop in Java.
 
 #### Work with
 ![Java](https://img.shields.io/badge/java-orange.svg?style=for-the-badge&logo=openjdk&logoColor=white)
